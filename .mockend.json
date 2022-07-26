@@ -1,5 +1,5 @@
-{
-  "menu1": {
+[
+  {
     "title": "General",
     "icon": "bi-gear-fill",
     "childrens": [
@@ -37,7 +37,7 @@
       }
     ]
   },
-  "menu2": {
+  {
     "title": "Account",
     "icon": "bi-info-circle-fill",
     "childrens": [
@@ -59,7 +59,7 @@
       }
     ]
   },
-  "menu3": {
+  {
     "title": "Profile",
     "icon": "bi-person-fill",
     "childrens": [
@@ -99,7 +99,7 @@
       }
     ]
   },
-  "menu4": {
+  {
     "title": "Advance",
     "icon": "bi-view-list",
     "childrens": [
@@ -113,14 +113,14 @@
       }
     ]
   },
-  "menu5": {
+  {
     "title": "Support",
     "icon": "bi-question-circle-fill",
     "path": "/support"
   },
-  "menu6": {
+  {
     "title": "Report Bug",
     "icon": "bi-bug",
     "path": "/report-bug"
   }
-}
+]
